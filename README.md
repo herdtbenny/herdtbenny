@@ -50,8 +50,8 @@ const benny = {
 <sub>Logistic Regression · React · Vite · SVG</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/herdtbenny/sport-scorings"><img src="assets/projects/sportscorings.jpg" /></a>
-<b>📊 <a href="https://github.com/herdtbenny/sport-scorings">Sport Scorings</a></b> – live tables, matchdays, top scorers and team search for Bundesliga, Premier League and more, straight from the OpenLigaDB API.<br/>
+<a href="https://sport-scorings.websbybenny.de"><img src="assets/projects/sportscorings.jpg" /></a>
+<b>📊 <a href="https://github.com/herdtbenny/sport-scorings">Sport Scorings</a></b> – live tables, matchdays, top scorers and team search for Bundesliga, Premier League and more, straight from the OpenLigaDB API. <a href="https://sport-scorings.websbybenny.de">Try it live →</a><br/>
 <sub>React · Vite · REST APIs</sub>
 </td>
 </tr>
