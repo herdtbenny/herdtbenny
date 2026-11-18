@@ -70,7 +70,7 @@ const benny = {
 <tr>
 <td width="50%" valign="top">
 <a href="https://portfolio.websbybenny.de/finanzboard"><img src="assets/projects/finanzboard.jpg" /></a>
-<b>💶 <a href="https://portfolio.websbybenny.de/finanzboard">Finanzboard</a></b> – mobile household-budget PWA: accounts, standing orders and receipt scanning with in-browser OCR, no bank connection. <i>(private repo, case study in the portfolio)</i><br/>
+<b>💶 <a href="https://github.com/herdtbenny/finanzboard">Finanzboard</a></b> – mobile household-budget PWA: accounts, standing orders and receipt scanning with in-browser OCR, no bank connection. <a href="https://portfolio.websbybenny.de/finanzboard">Case study →</a><br/>
 <sub>React · Vite · Supabase · Tesseract.js · PWA</sub>
 </td>
 <td width="50%" valign="top">
