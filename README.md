@@ -45,8 +45,8 @@ const benny = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/herdtbenny/xg-lab"><img src="assets/projects/xglab.jpg" /></a>
-<b>⚽ <a href="https://github.com/herdtbenny/xg-lab">xG Lab</a></b> – interactive expected-goals model: place shots, get live goal probabilities and the "deserved" result.<br/>
+<a href="https://xg-lab.websbybenny.de"><img src="assets/projects/xglab.jpg" /></a>
+<b>⚽ <a href="https://github.com/herdtbenny/xg-lab">xG Lab</a></b> – interactive expected-goals model: place shots, get live goal probabilities and the "deserved" result. <a href="https://xg-lab.websbybenny.de">Try it live →</a><br/>
 <sub>Logistic Regression · React · Vite · SVG</sub>
 </td>
 <td width="50%" valign="top">
