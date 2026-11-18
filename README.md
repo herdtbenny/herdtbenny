@@ -45,43 +45,41 @@ const benny = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://portfolio.websbybenny.de/xg-lab"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/xglab.jpg" /></a>
-<b>⚽ xG Lab</b> – interactive expected-goals model: place shots, get live goal probabilities and the "deserved" result.<br/>
-<sub>Logistic Regression · React · SVG</sub>
+<a href="https://github.com/herdtbenny/xg-lab"><img src="assets/projects/xglab.jpg" /></a>
+<b>⚽ <a href="https://github.com/herdtbenny/xg-lab">xG Lab</a></b> – interactive expected-goals model: place shots, get live goal probabilities and the "deserved" result.<br/>
+<sub>Logistic Regression · React · Vite · SVG</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://portfolio.websbybenny.de/sportScorings"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/sportscorings.jpg" /></a>
-<b>📊 Sport Scorings</b> – live tables, matchdays & top scorers for Bundesliga, Premier League and more.<br/>
-<sub>React · REST APIs · Caching</sub>
+<a href="https://github.com/herdtbenny/sport-scorings"><img src="assets/projects/sportscorings.jpg" /></a>
+<b>📊 <a href="https://github.com/herdtbenny/sport-scorings">Sport Scorings</a></b> – live tables, matchdays, top scorers and team search for Bundesliga, Premier League and more, straight from the OpenLigaDB API.<br/>
+<sub>React · Vite · REST APIs</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/herdtbenny/kochbuch"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/kochbuch.jpg" /></a>
-<b>🍝 Kochbuch</b> – shared recipe PWA with photos, per-person ratings and push notifications.<br/>
+<a href="https://github.com/herdtbenny/kochbuch"><img src="assets/projects/kochbuch.jpg" /></a>
+<b>🍝 <a href="https://github.com/herdtbenny/kochbuch">Kochbuch</a></b> – shared recipe PWA with photos, per-person ratings and push notifications.<br/>
 <sub>Next.js · TypeScript · Drizzle · Postgres · Web Push</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://portfolio.websbybenny.de/auth-rollen-system"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/rbac.jpg" /></a>
-<b>🔐 Auth & Rollen-System</b> – RBAC playground with real signed JWTs and a transparent permission middleware.<br/>
-<sub>JWT · HMAC-SHA256 · Web Crypto API</sub>
+<a href="https://github.com/herdtbenny/foodie"><img src="assets/projects/foodie.jpg" /></a>
+<b>🍽️ <a href="https://github.com/herdtbenny/foodie">Foodie</a></b> – restaurant app for two: wishlist, weighted per-person ratings, Google-Maps import and a map of every place.<br/>
+<sub>Next.js · TypeScript · Drizzle · Leaflet · Web Push</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://portfolio.websbybenny.de/finance-tracker"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/finanztracker.jpg" /></a>
-<b>💶 Finanz Tracker</b> – budgets, cash flow and savings goals with month-end forecast.<br/>
-<sub>KPI design · Data modelling · SVG charts</sub>
+<a href="https://portfolio.websbybenny.de/finanzboard"><img src="assets/projects/finanzboard.jpg" /></a>
+<b>💶 <a href="https://portfolio.websbybenny.de/finanzboard">Finanzboard</a></b> – mobile household-budget PWA: accounts, standing orders and receipt scanning with in-browser OCR, no bank connection. <i>(private repo, case study in the portfolio)</i><br/>
+<sub>React · Vite · Supabase · Tesseract.js · PWA</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://websbybenny.de"><img src="https://raw.githubusercontent.com/herdtbenny/portfolio/main/public/projects/websbybenny.jpg" /></a>
-<b>🌐 Webs by Benny</b> – my web agency for local businesses, with an automated analyse → demo → deploy pipeline.<br/>
+<a href="https://websbybenny.de"><img src="assets/projects/websbybenny.jpg" /></a>
+<b>🌐 <a href="https://websbybenny.de">Webs by Benny</a></b> – my web agency for local businesses, with an automated analyse → demo → deploy pipeline.<br/>
 <sub>React · Tailwind · Vercel · Cloudflare · Claude Code</sub>
 </td>
 </tr>
 </table>
-
-<p align="center"><a href="https://github.com/herdtbenny/foodie"><b>🍽️ foodie</b></a> – restaurant wishlist & ratings with Google-Maps import and an interactive map (Next.js · Leaflet)</p>
 
 <p align="center"><a href="https://portfolio.websbybenny.de"><img src="https://img.shields.io/badge/All%20projects%20→-portfolio.websbybenny.de-22c55e?style=for-the-badge" /></a></p>
 
